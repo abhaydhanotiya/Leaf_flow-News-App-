@@ -9,7 +9,7 @@ Hi, I'm a Flutter developer passionate about creating efficient, user-friendly, 
 [Provide a brief description or link to your "Leaf Flow" project.]
 
 # 📊 GitHub Stats:
-![](https://github-stats.com/abhaydhanotiya/Leaf_flow-News-App-)
+![](https://repo-tracker.com/r/gh/abhaydhanotiya/Leaf_flow-News-App-?utm_source=github-stats)
 
 # ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
