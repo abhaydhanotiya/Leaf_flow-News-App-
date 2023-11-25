@@ -17,7 +17,7 @@ Explore the world of news effortlessly with Leaf Flow. Dive into a curated colle
 As I continue to grow, I invite you to join me on this journey. Your feedback and suggestions are valuable as I aim to become your go-to News Application.
 
 # 🌐 Connect with Leaf Flow
-[Insert links or instructions for users to download and explore Leaf Flow.]
+App Download Link :- (https://github.com/abhaydhanotiya/Leaf_flow-News-App-/releases/download/News/app-release.apk)
 
 # 💻 Tech Used:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
