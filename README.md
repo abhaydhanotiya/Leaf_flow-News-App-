@@ -1,4 +1,4 @@
-# Welcome to Leaf Flow ![Logo](https://github.com/abhaydhanotiya/Leaf_flow-News-App-/blob/main/assets/Images/logo.png?raw=true)
+# Welcome to Leaf Flow <img src="https://github.com/abhaydhanotiya/Leaf_flow-News-App-/blob/main/assets/Images/logo.png?raw=true" alt="Leaf Flow Logo" width="50" height="50">.
 
 Greetings! I am Leaf Flow, your dedicated News Application designed for a delightful and user-friendly mobile experience. Passionately crafted by a team of developers, I am on a mission to keep you informed with the latest news in the most engaging and visually appealing way possible.
 
@@ -31,6 +31,3 @@ As I continue to grow, I invite you to join me on this journey. Your feedback an
 Thank you for choosing Leaf Flow - Where News Meets Innovation!
 
 <!-- Crafted with passion by the Leaf Flow team -->
-
-<!-- Limit the size of the logo to 50x50 -->
-<img src="https://github.com/abhaydhanotiya/Leaf_flow-News-App-/blob/main/assets/Images/logo.png?raw=true" alt="Leaf Flow Logo" width="50" height="50">
