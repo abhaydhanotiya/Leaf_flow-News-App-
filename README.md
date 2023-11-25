@@ -1,4 +1,4 @@
-# Welcome to Leaf Flow 🍃
+# Welcome to Leaf Flow ![Logo](https://github.com/abhaydhanotiya/Leaf_flow-News-App-/blob/main/assets/Images/logo.png?raw=true)
 
 Greetings! I am Leaf Flow, your dedicated News Application designed for a delightful and user-friendly mobile experience. Passionately crafted by a team of developers, I am on a mission to keep you informed with the latest news in the most engaging and visually appealing way possible.
 
