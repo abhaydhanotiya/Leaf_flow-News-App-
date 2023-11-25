@@ -22,9 +22,6 @@ As I continue to grow, I invite you to join me on this journey. Your feedback an
 # 💻 Tech Used:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
-# 💡 Live Project - Leaf Flow
-[Provide a brief description or link to your "Leaf Flow" project.]
-
 # 📊 GitHub Stats:
 [![Abhay's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhaydhanotiya)](https://github.com/abhaydhanotiya/Leaf_flow-News-App-)
 
